@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
+<a href="https://www.facebook.com/Huslensaihan.B">
   <img height="50" src="https://user-images.githubusercontent.com/98379236/205475373-35cae29c-5b77-46f5-8348-19d608a684bb.png"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/khuslensaikhan-battsetseg-1a5356259/">
+<a href="https://www.linkedin.com/in/khuslensaikhan-battsetseg-1a5356259/">
   <img height="50" src="https://user-images.githubusercontent.com/98379236/205475377-b8b3ef00-807a-450f-8de6-e75bc0b9c586.png"/>
 </a>
 <a href="https://www.instagram.com/huskamun/">
