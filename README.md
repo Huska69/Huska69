@@ -75,8 +75,6 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huska69&theme=noctis_minimus&layout=compact" />
 </a>
 
-![snake gif](https://github.com/Huska69/Huska69/blob/output/github-contribution-grid-snake.gif)
-  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
