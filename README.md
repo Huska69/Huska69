@@ -74,7 +74,9 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Huska69&theme=noctis_minimus&show_icons=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huska69&theme=noctis_minimus&layout=compact" />
 </a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="khuslensaikhan-battsetseg-1a5356259" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tw.linkedin.com/in/khuslensaikhan-battsetseg-1a5356259?trk=profile-badge">Khuslensaikhan Battsetseg</a></div>
+              
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
