@@ -67,7 +67,7 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="center">
-<a href="https://github.com/Huska69">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHuska69e=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHuska69=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <p align="center">
