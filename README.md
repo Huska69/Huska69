@@ -67,9 +67,7 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="center">
-<a href="https://github.com/Huska69">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Huska69&theme=noctis_minimus&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huska69&theme=noctis_minimus&layout=compact" />
+<a href="https://github.com/Huska69">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHuska69e=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <p align="center">
