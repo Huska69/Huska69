@@ -46,7 +46,7 @@ technical_background:
   ]
   
 currently_learning: ["C++, Python, "]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2022 Goals: ["Create 20+ Projects and try to learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 ```
   
@@ -67,8 +67,7 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="center">
-<a ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huska69&theme=radical)
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huska69&theme=radical)
 </p>
 
 <p align="center">
