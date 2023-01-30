@@ -67,7 +67,7 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huska69&theme=radical)
+  <a ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huska69&theme=radical) </a>
 </p>
 
 <p align="center">
