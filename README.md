@@ -28,7 +28,7 @@ located_in: Hualien, Taiwan
 current_job: Student 👨‍🎓
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Designer",
     "Bachelor's Computer Science and Information Engineering (Ongoing),
   ]
 
@@ -42,7 +42,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Not Yet inc."
+    "Yeti School of English /Graphic Designer/ (2020-2021)"
   ]
   
 currently_learning: ["C++, Python, "]
