@@ -66,7 +66,9 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huska69&theme=radical) 
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huska69&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=Huska69&theme=gruvbox&border_radius=4.5)
 
 
 <p align="center">
