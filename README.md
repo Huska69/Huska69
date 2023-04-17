@@ -37,7 +37,6 @@ fields_of_interests:
     "Web Development",
     "Ai",
     "Machine Learning",
-    "UI/UX",
     "Game Development",
   ]
 technical_background:
@@ -46,7 +45,7 @@ technical_background:
   ]
   
 currently_learning: ["C++, Python, "]
-2022 Goals: ["Create 20+ Projects and try to learn at least 5 new Technologies."]
+2023 Goals: ["Create 20+ Projects and try to learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 ```
   
