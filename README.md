@@ -44,9 +44,9 @@ technical_background:
     "Yeti School of English /Graphic Designer/ (2020-2021)"
   ]
   
-currently_learning: ["C++, Python, HTML, CSS, JS"]
----  
-  
+currently_learning: ["C++, Python, HTML, CSS, JS]
+```
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
