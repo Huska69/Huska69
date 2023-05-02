@@ -25,7 +25,7 @@
 ```yaml
 name: Khuslensaikhan Battsetseg
 located_in: Hualien, Taiwan
-current_job: Student 👨‍🎓
+current_job: Graphic Designer at NDHU CSIE
 education:
   [
     "Self-Taught Designer",
@@ -44,11 +44,7 @@ technical_background:
     "Yeti School of English /Graphic Designer/ (2020-2021)"
   ]
   
-currently_learning: ["C++, Python, "]
-2023 Goals: ["Create 20+ Projects and try to learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
-```
-  
+currently_learning: ["C++, Python, HTML, CSS, JS"]
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -57,7 +53,7 @@ hobbies: ["Gaming", "Programming", "Try hard", "Sleep"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="57" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 
 </p>
