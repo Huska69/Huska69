@@ -25,26 +25,17 @@
 ```yaml
 name: Khuslensaikhan Battsetseg
 located_in: Hualien, Taiwan
-current_job: Graphic Designer at NDHU CSIE
+current_job: Job Seeking
 education:
   [
-    "Self-Taught Designer",
-    "Bachelor's Computer Science and Information Engineering (Ongoing),
+    "Bachelor's Computer Science and Information Engineering ,
   ]
 
 fields_of_interests:
   [
-    "Web Development",
-    "Ai",
+    "Software Development",
     "Machine Learning",
-    "Game Development",
   ]
-technical_background:
-  [
-    "Yeti School of English /Graphic Designer/ (2020-2021)"
-  ]
-  
-currently_learning: ["C++, Python, HTML, CSS, JS]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
